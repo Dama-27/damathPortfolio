@@ -126,7 +126,7 @@ export default function Hero() {
               <RiArrowRightLine className="transition-transform group-hover:translate-x-1" />
             </a>
             <a
-              href="/TDS DE SILVA.pdf"
+              href="/TDS DE SILVA associate v1.pdf"
               download
               className="inline-flex items-center gap-2 rounded-xl border border-gray-300 bg-white
                          px-6 py-3 text-sm font-semibold text-gray-700 transition-all duration-200
